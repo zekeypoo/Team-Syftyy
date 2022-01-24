@@ -1,4 +1,5 @@
-# Team-Syftyy :Rules: (1) Spam ‣ Do not spam or send a lot of messages in a short amount of time.
+# Team-Syftyy 
+:Rules: (1) Spam ‣ Do not spam or send a lot of messages in a short amount of time.
 
 :Rules: (2) Pings ‣ Do not ping people excessively, do not ping everyone or here unless told by staff. (should not be able to do it anyway)
 
